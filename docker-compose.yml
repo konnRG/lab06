@@ -1,6 +1,6 @@
 version: "3.3"
 services:
   web:
-  image: "burussakorn45/se331-lab06:latest"
-  ports:
-    - 8100:80
+    image: "burussakorn45/se331-lab06:latest"
+    ports:
+      - 8100:80
